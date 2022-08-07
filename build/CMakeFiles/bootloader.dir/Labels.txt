@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/CMakeFiles/bootloader
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/CMakeFiles/bootloader.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/CMakeFiles/bootloader-complete.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+A:/CEEC/PROJECTS/CHECKPOINT/New_Checkpoint/meshIDF/Main/esp_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
